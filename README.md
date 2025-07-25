@@ -52,9 +52,9 @@
 ## 🚀 在线体验
 
 ### 演示地址
-- **Slidev在线版**: [即将部署到Vercel](#)
-- **演讲者模式**: 添加 `/presenter`
-- **概览模式**: 添加 `/overview`
+- **Slidev在线版**: [https://slidev-orcin.vercel.app/](https://slidev-orcin.vercel.app/)
+- **演讲者模式**: [https://slidev-orcin.vercel.app/presenter](https://slidev-orcin.vercel.app/presenter)
+- **概览模式**: [https://slidev-orcin.vercel.app/overview](https://slidev-orcin.vercel.app/overview)
 
 ### 本地运行
 ```bash
